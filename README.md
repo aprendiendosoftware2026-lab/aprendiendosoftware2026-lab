@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Amalia Restrepo
+#  Soy Amalia Restrepo
 
 ### 💻 Estudiante de Desarrollo de Software | 🎨 Diseñadora Gráfica
 
