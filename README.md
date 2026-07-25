@@ -1,12 +1,12 @@
 #  Soy Amalia Restrepo
 
-### 💻 Estudiante de Desarrollo de Software | 🎨 Diseñadora Gráfica
+### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
 
 ¡Bienvenido(a) a mi perfil de GitHub!
 
-Actualmente soy estudiante de **Desarrollo de Software** y estoy construyendo mi portafolio a través de proyectos académicos y personales. Me apasiona aprender nuevas tecnologías, desarrollar soluciones que resuelvan problemas reales y mejorar continuamente mis habilidades como programadora.
+Actualmente estoy cursando una Técnica en Programación de Software, donde he adquirido conocimientos en desarrollo web, bases de datos, lógica de programación y control de versiones. A través de proyectos académicos y personales continúo fortaleciendo mis habilidades y explorando nuevas tecnologías.
 
-Mi formación en **Diseño Gráfico** complementa mi perfil, permitiéndome crear proyectos que combinan funcionalidad, organización y una buena experiencia para el usuario.
+Además, mi formación en Diseño Gráfico me permite aportar una perspectiva creativa al desarrollo de interfaces y experiencias de usuario.
 
 ---
 
@@ -59,7 +59,6 @@ Creo que cada proyecto representa una oportunidad para aprender algo nuevo y mej
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendiendosoftware2026-lab\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
-
 
 
 ### ✨ Un poco sobre mí
