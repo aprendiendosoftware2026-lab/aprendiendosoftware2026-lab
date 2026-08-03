@@ -1,4 +1,4 @@
-#  Soy Amalia Restrepo
+# <h1 align="center"> Soy Amalia Restrepo </h1>
 
 ### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
 
