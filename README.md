@@ -1,15 +1,5 @@
-<div align="center">
 
-        < / >       { }       [ ]
-
-    PHP        =>        SQL        JS
-
-          &&       ||       !=
-
-             A R
-
-        // Código • Diseño
-👩‍💻 ¡Hola! Soy Amalia Restrepo </div>
+👩‍💻 ¡Hola! Soy Amalia Restrepo 
 
 ### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
 
