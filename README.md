@@ -20,12 +20,38 @@ Además, mi formación en Diseño Gráfico me permite aportar una perspectiva cr
 
 ## 🌱 Actualmente aprendiendo
 
-* Desarrollo Backend con PHP.
-* Bases de datos con MySQL.
-* Git y GitHub.
-* Desarrollo de aplicaciones web.
-* Buenas prácticas de programación.
-* Diseño y modelado de bases de datos.
+### ⚙️ Desarrollo Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="55" alt="PHP"/>
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
+</p>
+
+### 🔧 Control de versiones
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" height="55" alt="Git y GitHub"/>
+</p>
+
+### 🌐 Desarrollo de aplicaciones web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="55" alt="HTML CSS JavaScript"/>
+</p>
+
+### 🧹 Buenas prácticas de programación
+
+💡 Código limpio · Organización · Estructura · Reutilización
+
+### 🗂️ Diseño y modelado de bases de datos
+
+📊 Modelado · Relaciones · Tablas · Consultas SQL
+
 
 ---
 
