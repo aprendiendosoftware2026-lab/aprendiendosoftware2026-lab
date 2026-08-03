@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="./img/programacion-amalia.png" width="500">
-</p> <h1>
- 👩‍💻  ¡Hola! Soy Amalia Restrepo </h1>
+<h1>
+ 👩‍💻  ¡Hola! Soy Amalia Restrepo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gphy.gif" width="35"></h1>
 
 ### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
 
