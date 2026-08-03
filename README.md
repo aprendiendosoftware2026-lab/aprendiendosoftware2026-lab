@@ -1,5 +1,5 @@
-
-## 👩‍💻  ¡Hola! Soy Amalia Restrepo 
+<h1>
+## 👩‍💻  ¡Hola! Soy Amalia Restrepo </h1>
 
 ### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
 
