@@ -52,15 +52,6 @@ Creo que cada proyecto representa una oportunidad para aprender algo nuevo y mej
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="left">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aprendiendosoftware2026-lab\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendiendosoftware2026-lab\&layout=compact\&theme=tokyonight\&hide_border=true)
-
---- </p>
-
-
 ### ✨ Un poco sobre mí
 
 * 💜 Me encanta aprender cosas nuevas cada día.
