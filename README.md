@@ -1,4 +1,15 @@
-# Soy Amalia Restrepo 
+<div align="center">
+
+        < / >       { }       [ ]
+
+    PHP        =>        SQL        JS
+
+          &&       ||       !=
+
+             A R
+
+        // Código • Diseño
+👩‍💻 ¡Hola! Soy Amalia Restrepo </div>
 
 ### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
 
