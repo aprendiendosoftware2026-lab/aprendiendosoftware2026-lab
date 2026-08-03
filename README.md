@@ -1,4 +1,6 @@
-<h1>
+<p align="center">
+  <img src="./img/programacion-amalia.png" width="500">
+</p> <h1>
  👩‍💻  ¡Hola! Soy Amalia Restrepo </h1>
 
 ### Estudiante de Programación de Software | 🎨 Diseñadora Gráfica
